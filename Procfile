@@ -1,1 +1,1 @@
-web: gunicorn car price app:app
+web: gunicorn car-price-app:app
